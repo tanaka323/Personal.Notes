@@ -38,6 +38,8 @@ RFC = Requests for comments
  <tr>
     <td>
 
+ <ul>
+
 <li>Defined in Documents called RFCs. 
 
 <li>Also refers to standards/protocols etc. For example the protocols created by the IEEE 
